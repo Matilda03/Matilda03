@@ -27,6 +27,7 @@ Here, you'll find:
 ## 🤝 Let's Connect
 * **Email:** m.fogato@student.tue.nl
 * **LinkedIn:** [linkedin.com/in/matilda-fogato](https://www.linkedin.com/in/matilda-fogato/)
+* **Personal website:** [fogato.tech](https://fogato.tech/)
 
 <!--
 **Matilda03/Matilda03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
